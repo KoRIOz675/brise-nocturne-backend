@@ -33,3 +33,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+target/
+*.log
